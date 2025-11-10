@@ -127,7 +127,9 @@
 ---
 
 ### 🧩 Jenkins  
-- 🧩 [Jenkins Repo](https://github.com/nikiimisal/Jenkins)
+-  [Jenkins setup and build process](https://github.com/nikiimisal/Project-Jenkins-CI-CD-Setup-and-Build-Process/tree/main)
+-  [Jenkins Administration — User & Access Management](https://github.com/nikiimisal/Project-Jenkins-CI-CD-Setup-and-Build-Process/blob/main/Jenkins%20Administration%20%E2%80%94%20User%20%26%20Access%20Management.md)
+-  [Jenkins Email Notification](https://github.com/nikiimisal/Project-Jenkins-CI-CD-Setup-and-Build-Process/blob/main/Jenkins%20Email%20Notification%20Setup.md)
 
 <h3 align="center">
   🧠 <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 15px #00ffff, 0 0 25px #00ffff;">Jenkins Projects</span> 🧠
@@ -136,6 +138,12 @@
 - ⚙️ [Freestyle Project Flow (Beginner)](https://github.com/nikiimisal/Jenkins-Freestyle-Project-Flow-For-Beginners-)  
 - 🚀 [Freestyle project-Node.js Deployment using Jenkins](https://github.com/nikiimisal/Jenkins-Freestyle-Deployment-Node-App)  
 - 📄 [Supporting Material](https://github.com/nikiimisal/node-js-app-CICD)
+- 🧾 [Node.js App — CI/CD with Jenkins & GitHub](https://github.com/nikiimisal/Project-Node.js-App-CI-CD-with-Jenkins-GitHub)
+- 📄 [Supporting Material](https://github.com/nikiimisal/node-js.app-CICD-setup-repo)
+- [Python App — CI/CD with Jenkins & GitHub](https://github.com/nikiimisal/Project-Python-App-CI-CD-with-Jenkins-GitHub)
+- [Supporting Material](https://github.com/nikiimisal/python.app-CICD-setup-repo)
+- [Student App — CI/CD with Jenkins, GitHub & Maven with connectivity DB](https://github.com/nikiimisal/Project--Student-App-using-java-CICD-with-Jenkins-GitHub-Maven-with-connectivity-Database)
+- [Supporting Material](https://github.com/nikiimisal/student-app-using-java--CICD-Jenkins)
 
 
 ---
