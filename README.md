@@ -31,10 +31,12 @@
 -  [Networking](https://github.com/nikiimisal/Networking)
 
 ---
+---
 
 ### 🐧 Linux  
 -  [Linux](https://github.com/nikiimisal/Linux)
 
+---
 ---
 
 ### 🔐 IAM & AWS CLI  
@@ -43,6 +45,7 @@
 - 💻 [CLI Notes](https://github.com/nikiimisal/S3-CLI-IAm/blob/main/AWS_CLI.md)
 
 ---
+---
 
 ### 💻 Basic HTML Codes  
 > *Deploying a Static Website on AWS EC2: A Simple Guide*  
@@ -50,10 +53,12 @@
 - 🧩 [My First College Project (BCS)](https://github.com/nikiimisal/my_first_project_in_collage_BCS)
 
 ---
+---
 
 ### 🧱 WordPress  
 - 🧩 [WordPress Basic](https://github.com/nikiimisal/wordpress_basic)  
 
+---
 ---
 
 ### 📊 LEPM  
@@ -67,15 +72,18 @@
 - ☁️**Project:** [LEMP + AWS (S3, RDS, CloudFront)](https://github.com/nikiimisal/project-using-lapm-S3-CloudFront-RDS)
 
 ---
+---
 
 ### 🐍 Python Project Hosting  
 - 🧩 [Python Project Hosting Repo](https://github.com/nikiimisal/Python_Project_Hosting)
 
 ---
+---
 
 ### 🟢 NodeJS / MEAN / MERN  
 - 🧩- **NodeJS___NodeJS-using-Nginx___MEAN-and-MERN:** [NodeJS & Nginx Projects](https://github.com/nikiimisal/NodeJS___NodeJS-using-Nginx___MEAN-and-MERN)
 
+---
 ---
 
 ### 🏗️ 3-Tier Architecture (AWS Projects) 
@@ -99,6 +107,7 @@
    
 
   ---
+  ---
 
 ### ☁️ Serverless Hosting  
 
@@ -106,6 +115,7 @@
 
 - 🧩 **Serverless Application (Sacred Temple File Uploader):** [View Repository](https://github.com/nikiimisal/project--Serverless-application--Sacred-Temple-File-Uploader--using-lambda)
 
+---
 ---
 
 ### 🧰 Git / GitHub / GitLab Setup  
@@ -120,10 +130,12 @@
 - ⚙️ [Branching & Merge Practice](https://github.com/nikiimisal/Git-Branching-and-Merge-Conflict-Practice)
 
 ---
+---
 
 ### 🧾 BitBucket  
 - 🧩 [Bitbucket Repo](https://github.com/nikiimisal/Bitbucket)
 
+---
 ---
 
 ### 🧩 Jenkins  
@@ -145,7 +157,62 @@
 - [Student App — CI/CD with Jenkins, GitHub & Maven with connectivity DB](https://github.com/nikiimisal/Project--Student-App-using-java-CICD-with-Jenkins-GitHub-Maven-with-connectivity-Database)
 - [Supporting Material](https://github.com/nikiimisal/student-app-using-java--CICD-Jenkins)
 
+---
+---
 
+### 📜 Terraform
+
+- [Terraform](https://github.com/nikiimisal/Terraform)
+- [Terraform Basic Setup On Linux](https://github.com/nikiimisal/Basic-Terraform-Setup-on-Linux)
+- [Basic Terraform setup using window (Server Launching) ](https://github.com/nikiimisal/Basic-Terraform-setup-using-window-Launching-server-)
+- [Varible Dynamic Assignment Terraform Examples](https://github.com/nikiimisal/Variable--Dynamic-assigment--Terraform)
+- [Terraform Some Example Using Script](https://github.com/nikiimisal/Terraform--Some-examples-of-Scripting)
+
+<h3 align="center">
+  ⚙️ <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 15px #00ffff, 0 0 25px #00ffff;">Terraform Projects</span> ⚙️
+</h3>
+
+
+- [Project-2-tier-arc-using_terraform](https://github.com/nikiimisal/Project-2-tier-arc-using_terraform)
+- [Project 3-Tier Arc using Terraform](https://github.com/nikiimisal/Project-code-3-tier-arc-using_terraform)
+
+---
+---
+
+###  ⚙️ Ansible
+
+- [Ansible setup And info](https://github.com/nikiimisal/Ansible--Setup-and-some-info)
+- [Some Examples Using Ansible galaxy & their Concepts](https://github.com/nikiimisal/Some-Example-s-Using-Ansible-and-their-concepts)
+    - [Material--Test ansible upload ansible galaxy](https://github.com/nikiimisal/Test-ansible-upload-ansible-galaxy)
+
+
+
+<h3 align="center">
+  🤖 <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 15px #00ffff, 0 0 25px #00ffff;">Ansible Projects</span> 🤖
+</h3>
+
+- [Project 2-tier Arc Using Ansible](https://github.com/nikiimisal/Project-2-tier-arc-using_Ansible)
+- [Project 3-tier Arc Using Ansible](https://github.com/nikiimisal/Project-code-3-tier-arc-using_Ansible)
+
+
+---
+---
+
+###  🐳 Docker
+
+
+- [Docker Info & Setup](https://github.com/nikiimisal/Docker_info-and-setup)
+- [Docker Examples & their Concepts](https://github.com/nikiimisal/Docker-Examples-and-Concepts)
+
+
+
+<h3 align="center">
+  🐳 <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 15px #00ffff, 0 0 25px #00ffff;">Docker Projects</span> 🐳
+</h3>
+
+- [Project - WordPress Containerization](https://github.com/nikiimisal/Project_Containrize-Wordpress)
+
+---
 ---
 
 <div align="center">
