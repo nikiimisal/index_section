@@ -212,6 +212,12 @@
 
 - [Project - WordPress Containerization](https://github.com/nikiimisal/Project_Containrize-Wordpress)
 - [Project - Node & Python using Dockerfile ( Docker container & Proxy container )](https://github.com/nikiimisal/Project-node-and-python-using-docker)
+- [WordPress Deployment Using Docker Compose](https://github.com/nikiimisal/Project_Wordpress-deployment-using-_-Docker-Compose)
+- [Project-3-tier_arc using all concepts of Docker](https://github.com/nikiimisal/Project_3-tier_arc-using-all-concepts-of-Docker)
+
+
+
+
 
 ---
 ---
