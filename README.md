@@ -102,8 +102,12 @@
 - [Full Architecture Overview](https://github.com/nikiimisal/3-tier_Architecture_Related/blob/main/3-tier-Arc_all_servaces_include.md)
  <h3 align="center"> ✨ <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff;">AWS 3-Tier Projects</span> ✨ </h3>
 
+
+  - ☁️🏗️**Scalable Web Architecture AWS Workshop:** [View Project](https://github.com/nikiimisal/Project__aws-three-tier-web-architecture-workshop)
+  > - **AWS Three Tier Web Architecture Workshop Adding some services:** **under process** [View Project](https://github.com/nikiimisal/Project__aws-three-tier-web-architecture-workshop__Adding-some-services)
   - 🎯 **Attendance System:** [View Project](https://github.com/nikiimisal/Project-Mark-Your-Attendance-3-Tier-AWS-SDK-Architecture)
   - 🎬 **Movie Ticket Booking:** [View Project](https://github.com/nikiimisal/Project--Movie-Ticket-Booking-System-AWS-3-Tier-Architecture-)
+  - 📚 **Project Book-Store 3-tier-arc:** [View Project](https://github.com/nikiimisal/Project__Book-Store-3-tier-arc)
    
 
   ---
@@ -223,19 +227,69 @@
 
 - [Kubernetes (K8s) Info and Setup](https://github.com/nikiimisal/Kubernetes_-K8s-_Info-and-Setup)
 - [Concepts_And_Examples of K8S](https://github.com/nikiimisal/Concepts_And_Examples-of-K8S)
+- [K8S_Minikube_installation setup and Some examples](https://github.com/nikiimisal/K8S__Minikube__-installation-setup-and-Some-examples)
+
+
+
+---
+---
+
+
+###  ⏱️ Prometheus
+
+- [Prometheus__info and setup-With Node Exporter and Python App ](https://github.com/nikiimisal/Prometheus__info-and-setup)
+
+
+---
+---
+
+###  📊 Grafana
+
+
+- [Grafana__info-and-setup](https://github.com/nikiimisal/Grafana__info-and-setup)
+
+
+---
+---
+
+
+###   Jira 📋
 
 
 
 
 
 
+---
+---
 
+
+##  🔄 Devops
 
 <h3 align="center">
-  🚢 <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 15px #00ffff, 0 0 25px #00ffff;">K8S Projects</span> ☸️
+   <span style="color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 15px #00ffff, 0 0 25px #00ffff;">
+    🚀 DevOps Project Implementation ☁️⚙️🐳☸️📦📋🔄🛠️
+  </span> 
 </h3>
 
-- 
+<p align="center">
+ Only Using core DevOps tools Not Aws services to understand concepts and implement a 3-Tier Architecture project.
+</p>
+
+
+- [Devops Project](https://github.com/nikiimisal/Project__Devops)
+
+---
+---
+---
+---
+
+
+##  🐍 Python Programming
+###  🐍 Python for Automation & DevOps ⚙️☁️ ../..📘🐍 Python Concepts & Projects
+
+
+
 
 
 
